@@ -1,0 +1,8 @@
+{
+  "vault": "./vault",
+  "cards_dir": "./vault/02_内容素材/视频",
+  "breakdown_dir": "./vault/01_对标账号",
+  "deepseek_base_url": "https://api.deepseek.com",
+  "deepseek_model": "deepseek-chat",
+  "deepseek_api_key_file": "~/.config/deepseek/api_key"
+}

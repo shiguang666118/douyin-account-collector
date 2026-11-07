@@ -1,0 +1,13 @@
+# 配置和密钥：不进 Git
+config.json
+tikhub.json
+
+# 运行产物
+runs/
+vault/
+state/
+*.mp4
+*.srt
+brief.md
+*.pyc
+__pycache__/
